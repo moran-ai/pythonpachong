@@ -1,0 +1,6 @@
+# encoding:gbk
+from scrapy import cmdline
+
+# ×¢ÈëÓï¾ä
+cmdline.execute('scrapy crawl cto'.split())
+
