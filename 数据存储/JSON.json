@@ -1,0 +1,26 @@
+{
+    "code": 1,
+    "msg": "JSON格式数据",
+    "count": 2,
+    "data": [
+    {
+        "id": "count1",
+        "username": "Anna",
+        "city":"长沙",
+        "sign": "provincial capital",
+        "classify": "2",
+        "experience": "B",
+        "score": "80",
+        "wealth": "2"
+    }, {
+        "id": "count2",
+        "username": "Jack",
+        "city": "深圳",
+        "sign": "Special economic zone",
+        "classify": "1",
+        "experience": "A",
+        "score": "88",
+        "wealth": "1"
+    }
+    ]
+}
