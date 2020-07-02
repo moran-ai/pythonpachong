@@ -1,0 +1,60 @@
+{'name': '不要你觉得要我觉得', 'title': '紫光云数web', 'skill': 'WEB，webpack，koa，Linux', 'work': '个人博客,服务器嵌入式管理WEB应用——HDM,智能服务器快速工具应用', 'address': '可工作地点：远程', 'time': '可预约时间：工作日10:30-21:00、周末10:30-21:00'}
+{'name': 'web小虫儿', 'title': '飞拓无限信息技术（北京）股份有限公司前端开发工程师', 'skill': 'web前端开发，小程序', 'work': '北京国联官网,飞拓无限信息技术（北京）股份有限公司官网,国联股份官网', 'address': '可工作地点：远程', 'time': '可预约时间：工作日6:00-22:00、周末8:30-24:00'}
+{'name': 'web前端农民', 'title': '武汉中软通科技有限公司web前端工程师', 'skill': 'Javascript，AngularJS，react/reactjs', 'work': '慧眼系统,电子围栏信息管理系统,位置围栏管理系统', 'address': '可工作地点：远程', 'time': '可预约时间：工作日09:00-23:00、周末09:00-23:00'}
+{'name': 'web小飞', 'title': '浙江搜派信息科技有限公司web前端', 'skill': 'html，CSS，Vue.js，webpack，Node.js，jQuery，Javascript，uni-app', 'work': '宁波虎翼机械有限公司,婚博会,电商后台管理系统', 'address': '可工作地点：', 'time': '可预约时间：工作日20:00-22:00、周末9:00-19:00'}
+{'name': '神州邦邦web前端工程师', 'title': '神州邦邦web前端', 'skill': 'Javascript，Java，Android，html，git，CSS，微信小程序，Vue', 'work': '神州邦邦接单,公司官网,小胖钱包、查信度公众号', 'address': '可工作地点：北京', 'time': '可预约时间：工作日19:30-22:00、周末9:00-19:00'}
+{'name': 'web前端开发人员', 'title': '中企云链（北京）金融科技有限公司web前端开发', 'skill': 'html，CSS 3，html5，js ，Vue.js，Node.js，json', 'work': '免费学画画,云租平台系统（后台管理）,票转信（云链平台）', 'address': '可工作地点：远程', 'time': '可预约时间：工作日18:30-10:30、周末09:00-18:00'}
+{'name': '鱼渔', 'title': '中关村在线web前端工程师', 'skill': 'web前端', 'work': 'M.Internat,蜂鸟网,中关村在线', 'address': '可工作地点：北京远程', 'time': '可预约时间：工作日晚上、周末白天、周末晚上'}
+{'name': '竹公子', 'title': '麦巴出行web前端', 'skill': 'WEB前端', 'work': '麦巴出行,麦巴司机端,麦巴出行微信小程序', 'address': '可工作地点：成都远程', 'time': '可预约时间：工作日09:00-20:00、周末09:00-20:00'}
+{'name': 'flybear', 'title': '亚信web前端工程师', 'skill': 'Javascript，CSS，html5，react/reactjs，Vue.js', 'work': '个人主页,傻蛋搜,web component', 'address': '可工作地点：长沙远程', 'time': '可预约时间：工作日-、周末09:00-20:00'}
+{'name': 'Dyaping', 'title': '宁夏纵横宝盈软件高级JAVA工程师', 'skill': 'PHP，web(js+css+html)，Java，Android', 'work': '交通秘书,交通秘书和生活web端', 'address': '可工作地点：成都', 'time': '可预约时间：工作日晚上、周末晚上'}
+{'name': 'web六爷', 'title': '有谦软联（北京）高级前端工程师', 'skill': 'Vue.js，Node.js，react/reactjs，Javascript，html5，CSS 3，D3，Less，scss', 'work': '中小学实验教学系统,北京工业大数据平台,数据质量管理平台', 'address': '可工作地点：远程', 'time': '可预约时间：工作日18:00-23:00、周末8:00-20:00'}
+{'name': '小小世界的我', 'title': '融汇金信web', 'skill': 'web前端开发，webpack，Vue.js，react/reactjs，Node.js', 'work': '政策大脑,智能小E,行业研报', 'address': '可工作地点：远程', 'time': '可预约时间：工作日21:00-23:00、周末09:00-19:00'}
+{'name': '飘渺无尘', 'title': '安软科技股份有限公司高级UI设计师', 'skill': 'XD，Photoshop，AI，AE，web设计', 'work': 'web界面,见倾APP,米警APP', 'address': '可工作地点：远程', 'time': '可预约时间：工作日09:00-23:00、周末09:00-22:00'}
+{'name': 'web开发工程师', 'title': '武汉中旗生物医疗Java高级开发工程师', 'skill': 'Javascript，CSS，Java，MySQL，Spring，Mybatis，SpringMVC，hibernate，Struts2，html', 'work': '心电数据管理系统,排队叫号系统,专家诊断平台', 'address': '可工作地点：远程', 'time': '可预约时间：工作日19:00-22:00、周末9:00-18:00'}
+{'name': 'React开发', 'title': '万古盛世web开发', 'skill': 'react/reactjs，Vue.js，小程序，ES6，Node.js', 'work': '爱享到小程序,爱享到app,圈子金服web版本', 'address': '可工作地点：', 'time': '可预约时间：工作日8:00-24:00、周末9:00-24:00'}
+{'name': '老杨web前端', 'title': '博彦高级前端工程师', 'skill': '高级前端工程师', 'work': '盒马iot,退货管理,供应商一站式引入流程', 'address': '可工作地点：远程', 'time': '可预约时间：工作日20:00-24:00、周末8:00-24:00'}
+{'name': '专业造WEB', 'title': 'bilibili资深Java工程师', 'skill': 'rabbitMq，html5，Java，MySQL，Redis，Spring，elasticsearch', 'work': '蜂鸟配送,B站广告投放系统,测试平台', 'address': '可工作地点：上海', 'time': '可预约时间：周末11:00-24:00'}
+{'name': 'web小强哥', 'title': '阿里大润发飞牛网高级前端工程师', 'skill': 'Javascript，CSS，html5，jQuery，Vue.js，Java，小程序', 'work': '大润发优鲜小程序,体育竞猜小程序,赵涌在线艺术品电子商务平台', 'address': '可工作地点：远程', 'time': '可预约时间：工作日20:00-23:00、周末9:00-17:00'}
+{'name': 'web前端魏某某', 'title': '灵纪网络高级前端工程师', 'skill': 'PHP，html5，Vue.js，微信小程序，桌面应用软件开发，APP软件开发，H5软件开发，Uni-app软件开发', 'work': '日语五十音图小程序,购物商城APP,拓点吧APP', 'address': '可工作地点：', 'time': '可预约时间：工作日9:30-23:00、周末08:00-23:00'}
+{'name': '月翎魂雨', 'title': '科大讯飞web前端', 'skill': 'Javascript，Vue.js', 'work': '智慧课堂报告,部门web管理后台,云课堂管理后台', 'address': '可工作地点：远程', 'time': '可预约时间：工作日08:00-10:00、周末09:00-06:00'}
+{'name': '安徽禾麦科技', 'title': '安徽禾麦信息科技有限公司创始人&CEO', 'skill': 'PHP，CSS，Java，Python，html，js ', 'work': '农业宣传网站开发,岩土勘察信息平台,三行工作室的网站', 'address': '可工作地点：合肥远程', 'time': '可预约时间：工作日09:00-21:00'}
+{'name': 'web高级前端', 'title': '新疆熙菱信息有限公司高级前端工程师', 'skill': 'Vue.js，html5，Javascript，微信公众号，jQuery，Mapbox地图', 'work': '承诺达,承诺达会员系统,警卫路线大屏', 'address': '可工作地点：', 'time': '可预约时间：工作日18:00-22:30、周末09:00-22:30'}
+{'name': '你是我的帅包包', 'title': '读书郎web前端+后台，微信小程序，andro', 'skill': 'Android开发，WEB前端，Golang，Docker', 'work': '物理电学实验室,试题库,古诗词阅读', 'address': '可工作地点：远程', 'time': '可预约时间：工作日0:00-24:00、周末0:00-24:00'}
+{'name': 'app_ios_小程序_web工程师', 'title': '前广州广电运通信息科技有限公司软件开发工程师', 'skill': 'Java，Vue.js，uni-app，Python', 'work': '算力蜂后台管理系统,物流管理系统,jinkens-devops快速部署平台', 'address': '可工作地点：', 'time': '可预约时间：工作日09:00-20:00、周末09:00-20:00'}
+{'name': '叶王月', 'title': '北京信路威股份有限公司web前端开发', 'skill': 'Vue.js，Node.js，微信公众号小程序，element，Python，D3，flutter，react/reactjs', 'work': '医诺云智能医疗平台,天王星web平台,高速路防逃费管理平台', 'address': '可工作地点：', 'time': '可预约时间：工作日20:00-22:00、周末9:00-22:00'}
+{'name': '6dbm', 'title': 'H3C高级前端工程师', 'skill': 'Web全栈，Javascript，小程序，Node.js，html，CSS', 'work': 'SD敢达玩家要塞网站,SD敢达OL小程序,WX系列网管web界面', 'address': '可工作地点：北京远程', 'time': '可预约时间：工作日21:30-23:00、周末08:00-22:00'}
+{'name': 'Edward', 'title': '前淘在路上web前端工程师', 'skill': 'PHP，前端，iOS-Swift，HTML 2D Game Engines', 'work': 'CatchChat 后台与 Web 客户端,PhpMyAdmin Console,IIADA Vol2', 'address': '可工作地点：重庆远程', 'time': '可预约时间：工作日白天、工作日晚上、周末白天、周末晚上'}
+{'name': '黄世杰', 'title': '逻辑思维有限公司java工程师/前端工程师/web全栈工', 'skill': 'Java，h5，微信小程序开发，混合app开发，web网页开发', 'work': '检验联盟,券友商城,授课教育小程序', 'address': '可工作地点：深圳远程', 'time': '可预约时间：工作日09:00-23:00、周末09:00-23:00'}
+{'name': '绿水青山', 'title': '前武汉良中行供应链android开发兼Web前端', 'skill': 'WEB前端，react/reactjs，Vue.js，微信小程序，cordova，Android，React Native，Javascript', 'work': '集速配,即买送,即买送店小二', 'address': '可工作地点：武汉远程', 'time': '可预约时间：工作日18:30-24:00、周末8:30-22:30'}
+{'name': 'iOS小程序web远程12个月', 'title': '深圳市英迈思文化有限公司高级移动端工程师', 'skill': 'Javascript，html5，Vue.js，Python，Objective-C，swift，微信小程序，flutter，dart', 'work': '8分钟冥想,犀牛云客,新材道', 'address': '可工作地点：', 'time': '可预约时间：工作日8:00-23:00、周末8:00-23:00'}
+{'name': 'zw9love', 'title': '深圳市华阳信通科技发展有限公司web前端开发', 'skill': 'Javascript', 'work': 'MOCO官方微商城小程序,MO导购通小程序,MO微商城web后台管理系统', 'address': '可工作地点：', 'time': '可预约时间：工作日21:30-24:00、周末8:30-21:00'}
+{'name': '小程序web全栈开发', 'title': '广东阳光视界教育科技有限公司高级php开发', 'skill': 'Java，MySQL，Docker，Node.js，Vue.js，react/reactjs，PHP，Laravel', 'work': '小水滴课堂管理后台,小水滴课堂APP,客厅幼儿园小程序', 'address': '可工作地点：', 'time': '可预约时间：工作日9:00-19:00、周末9:00-20:30'}
+{'name': '古岁', 'title': '前广州指舞网络科技有限公司JavaEE工程师兼Web前端工程师', 'skill': '微信公众号，web前端开发，微信小程序，Java后端开发，独立开发(前后端+混合APP)', 'work': '指舞互动官网,PPmoney万惠理财移动1.0版本,真融网', 'address': '可工作地点：远程', 'time': '可预约时间：工作日19:00-22:00、周末9:00-22:00'}
+{'name': 'Tiheehoo', 'title': '前Midinote高级UI/UX设计师', 'skill': 'Adobe illustrator，Javascript，CSS，jQuery，Photoshop，Sketch，UI/UX设计，web设计，Adobe InDesign', 'work': '完整网站及产品设计,两个不同的首页网页设计,交互网站设计', 'address': '可工作地点：远程', 'time': '可预约时间：工作日09:00-18:00、周末10:00-17:00'}
+{'name': '刘智', 'title': '杭州醉了科技Java工程师', 'skill': 'Web，Java', 'work': '普源科技,南京银行,宁波银行', 'address': '可工作地点：杭州远程', 'time': '可预约时间：工作日晚上、周末白天、周末晚上'}
+{'name': 'web_前端_小陈', 'title': '杭州良鑫网络科技有限公司web前端', 'skill': 'Vue.js，Javascript，CSS 3，html5', 'work': '网商园,优百仓管理软件,一米精选', 'address': '可工作地点：远程', 'time': '可预约时间：工作日9:30-23:00、周末10:00-23:00'}
+{'name': 'Jadir', 'title': '神奇四侠网络前端工程师', 'skill': 'web前端', 'work': '北京思恩客广告有限公司,西安OAKSEN化学科技有限公司,天津西站皮肤病医院', 'address': '可工作地点：天津', 'time': '可预约时间：工作日晚上、周末白天、周末晚上'}
+{'name': '鹰帅', 'title': '智能客商城高级Java研发', 'skill': 'Web，Java，Linux，SSH', 'work': '实时监控,智能客商城,数矿', 'address': '可工作地点：远程', 'time': '可预约时间：工作日晚上、周末白天、周末晚上'}
+{'name': '说好的奥利奥呢', 'title': '北京微米创想高级前端工程师', 'skill': 'WEB，react/reactjs，Node.js', 'work': '云聚科技官网,雷鸣电商,新东方在线教育学生端及教师端', 'address': '可工作地点：远程', 'time': '可预约时间：工作日08:00-21:00、周末08:00-21:00'}
+{'name': '岂曰无衣', 'title': '识装android高级工程', 'skill': 'Android，WEB，flutter，weex', 'work': '毒App,洋码头,Pink', 'address': '可工作地点：', 'time': '可预约时间：工作日20:00-23:30、周末08:00-23:30'}
+{'name': 'Makers', 'title': '深圳康康网络iOS开发', 'skill': 'PHP，IOS，web前端', 'work': '掌心宝贝,腾讯儿童台灯,推推熊', 'address': '可工作地点：远程', 'time': '可预约时间：工作日晚上、周末白天、周末晚上'}
+{'name': 'Java叶凡', 'title': '贝壳找房高级后端工程师', 'skill': 'Java，MySQL，Redis，WEB', 'work': '多贝网,多贝云,陌陌直播间项目', 'address': '可工作地点：远程', 'time': '可预约时间：工作日19:00-24:00、周末10:00-24:00'}
+{'name': '谷枫', 'title': '前盛趣游戏（盛大游戏）前端开发工程师', 'skill': 'web前端开发', 'work': 'G买卖官网前端开发,上海农商银行,东亚银行', 'address': '可工作地点：远程', 'time': '可预约时间：工作日18:00-23:30、周末00:00-24:00'}
+{'name': 'Longder', 'title': '新奇星科技java工程师', 'skill': 'PHP，WEB前端，Java', 'work': '不动产登记系统,商品房数据上报系统,租赁网签监管平台', 'address': '可工作地点：昆明远程', 'time': '可预约时间：工作日19:30-24:00、周末0:00-24:00'}
+{'name': 'SnowyNight', 'title': '武汉知人科技ios开发工程师', 'skill': 'Objective-C，Objective-C，WEB，flutter', 'work': '见闻-股市早知道,知人科技官网,外学通', 'address': '可工作地点：', 'time': '可预约时间：工作日12:00-00:00、周末12:00-00:00'}
+{'name': 'NoBugException', 'title': '武警内蒙古总队Java开发工程', 'skill': 'JSP，jsp，freemaker等各种模板技术，Java各种开源框架使用，spring cloud分布式项目，HTML，JavaScript，jQuery，Linux操作，python，c语言', 'work': '酒店预订html版本,代理商管理系统,云影', 'address': '可工作地点：远程', 'time': '可预约时间：工作日10:00-19:00、周末13:30-20:00'}
+{'name': '嘻嘻哈哈嘿嘿', 'title': '索贝数码科技有限公司java高级开发工程师', 'skill': 'Java，html', 'work': '咔咔app,口袋小贝,云盘app', 'address': '可工作地点：远程', 'time': '可预约时间：工作日18:30-23:30、周末9:00-18:30'}
+{'name': '九千七', 'title': '武汉小梦科技有限公司PHP', 'skill': 'PHP，html', 'work': '云货舱,伯德智慧收运,青年young+', 'address': '可工作地点：', 'time': '可预约时间：工作日9:00-18:00'}
+{'name': '黄尚', 'title': '丁丁网Android开发', 'skill': 'Java，html', 'work': '安飞士租车,普交所,停车神器', 'address': '可工作地点：远程', 'time': '可预约时间：工作日09:00-23:00、周末09:00-20:00'}
+{'name': 'lan_Cloud', 'title': '微医集团android开发工程师', 'skill': 'Android，html', 'work': '艾康云,微医医生版,广州互联网医院', 'address': '可工作地点：远程', 'time': '可预约时间：工作日19:00-23:00、周末10:00-19:00'}
+{'name': '阿sing', 'title': '浙江小虫科技web前端', 'skill': 'Javascript，CSS，jQuery，html', 'work': '上海风创信息咨询有限公司,小虫教育,小虫教育', 'address': '可工作地点：远程', 'time': '可预约时间：工作日20:00-22:00、周末13:00-22:00'}
+{'name': 'MarkLiu', 'title': '自由职业前端开发', 'skill': 'Javascript，CSS，html', 'work': 'JavaScript坦克大战,网页播放器,百科九周年', 'address': '可工作地点：武汉远程', 'time': '可预约时间：工作日09:00-23:00、周末09:00-23:00'}
+{'name': 'inmyfree', 'title': '垦鑫达技术主管', 'skill': 'PHP，Java，Android，html', 'work': '应用商店,主题商店,云相册', 'address': '可工作地点：远程', 'time': '可预约时间：工作日21:00-00:00、周末20:00-00:00'}
+{'name': 'moicolin', 'title': '前金山娱乐web前端', 'skill': 'Javascript，CSS，html', 'work': '米兰港M站,西岸英语官网,丰生活M站', 'address': '可工作地点：远程', 'time': '可预约时间：工作日白天'}
+{'name': '麻瓜麻瓜', 'title': '前温州锦鲤网络科技有限公司php开发工程师', 'skill': 'PHP，Javascript，html，CSS', 'work': '公司官网,表情大作赞,老人与山', 'address': '可工作地点：远程', 'time': '可预约时间：工作日8:00-18:00、周末9:00-17:00'}
+{'name': 'Android开发者', 'title': '前微车Android开发', 'skill': 'Java，MySQL，Android，html', 'work': '微车,夺宝大师,布丁优惠券', 'address': '可工作地点：北京远程', 'time': '可预约时间：工作日晚上、周末白天、周末晚上'}
+{'name': '叶景涛', 'title': '前荣邦科技有限公司ios开发', 'skill': 'Objective-C，Java，Vue.js，html', 'work': '生意在线,爱幼,青聘果', 'address': '可工作地点：', 'time': '可预约时间：工作日20:00-1:00、周末9:00-1:00'}
+{'name': '火焰鸟', 'title': '北京宝润兴业科技发展有限公司中级java开发工程师', 'skill': 'HTML/CSS，Javascript，Java', 'work': '平安金管家,行E通平台,东莞市智网工程', 'address': '可工作地点：', 'time': '可预约时间：工作日20:00-23:30、周末08:30-22:00'}
+{'name': 'PM蓝石头', 'title': '前指点控股高级产品经理', 'skill': 'Python，html，MySQL', 'work': '疯狂影迷APP,小小组（小程序）,Qcourse小课（小程序）', 'address': '可工作地点：北京远程', 'time': '可预约时间：工作日09:00-18:00、周末09:00-18:00'}
+{'name': '百四', 'title': '中软国际科技服务有限公司项目经理', 'skill': 'Java，html，Vue.js，MySQL', 'work': '朝阳农资,扣点子计算器,基于WEB的缺陷管理系统', 'address': '可工作地点：远程', 'time': '可预约时间：工作日18:00-23:00、周末08:00-23:00'}

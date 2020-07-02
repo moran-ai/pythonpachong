@@ -1,0 +1,4 @@
+{'name': '不要你觉得要我觉得', 'title': '紫光云数web', 'skill': 'WEB，webpack，koa，Linux', 'work': '个人博客,服务器嵌入式管理WEB应用——HDM,智能服务器快速工具应用', 'address': '可工作地点：远程', 'time': '可预约时间：工作日10:30-21:00、周末10:30-21:00'}
+{'name': '老杨web前端', 'title': '博彦高级前端工程师', 'skill': '高级前端工程师', 'work': '盒马iot,退货管理,供应商一站式引入流程', 'address': '可工作地点：远程', 'time': '可预约时间：工作日20:00-24:00、周末8:00-24:00'}
+{'name': 'iOS小程序web远程12个月', 'title': '深圳市英迈思文化有限公司高级移动端工程师', 'skill': 'Javascript，html5，Vue.js，Python，Objective-C，swift，微信小程序，flutter，dart', 'work': '8分钟冥想,犀牛云客,新材道', 'address': '可工作地点：', 'time': '可预约时间：工作日8:00-23:00、周末8:00-23:00'}
+{'name': 'peixinchen', 'title': '腾讯Python工程师', 'skill': 'Python/C/Web', 'work': 'FDS,TCMS,UncleMarc', 'address': '可工作地点：西安远程', 'time': '可预约时间：工作日10:00-19:00'}
